@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "gradio-yolov3",
+      "runtimeExecutable": "C:/Users/olive/anaconda3/python.exe",
+      "runtimeArgs": ["gradio_app.py"],
+      "port": 7860
+    },
+    {
+      "name": "flask-api",
+      "runtimeExecutable": "C:/Users/olive/anaconda3/python.exe",
+      "runtimeArgs": ["main.py"],
+      "port": 5000
+    }
+  ]
+}
